@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <section leng="ua">
+    <menuOpenWinIndex>Відкрити</menuOpenWinIndex>
+    <menuSaveWinIndex>Зберегти</menuSaveWinIndex>
+    <menuCloseWinIndex>Закрити</menuCloseWinIndex>
+  </section>
+  <section leng="ru">
+    <menuOpenWinIndex>Открыть</menuOpenWinIndex>
+    <menuSaveWinIndex>Сохранить</menuSaveWinIndex>
+    <menuCloseWinIndex>Закрыть</menuCloseWinIndex>
+  </section>
+  <section leng="en">
+    <menuOpenWinIndex>Open</menuOpenWinIndex>
+    <menuSaveWinIndex>Save</menuSaveWinIndex>
+    <menuCloseWinIndex>Close</menuCloseWinIndex>
+  </section>
+</configuration>
